@@ -1,4 +1,4 @@
-# Nuxt 3 w/ NestJS
+# Nuxt 3 NestJS
 
 App built with Nuxt 3 + NestJS
 
