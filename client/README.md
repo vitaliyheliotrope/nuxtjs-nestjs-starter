@@ -1,7 +1,3 @@
-# Nuxt 3 w/ NestJS
-
-App built with Nuxt 3 + NestJS
-
 ### How to run
 
 1. Clone the repo
